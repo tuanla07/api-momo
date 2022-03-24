@@ -1,0 +1,51 @@
+[03-Dec-2021 14:38:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: buoc in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 9
+[03-Dec-2021 14:38:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: balance in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 91
+[03-Dec-2021 14:38:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: lasttime in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 93
+[03-Dec-2021 14:38:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 14:38:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 14:38:40 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 14:38:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 14:38:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 14:38:55 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 14:38:55 Asia/Ho_Chi_Minh] PHP Warning:  unlink(lastime): No such file or directory in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 32
+[03-Dec-2021 14:39:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 14:39:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 14:39:03 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 14:39:03 Asia/Ho_Chi_Minh] PHP Warning:  unlink(lastime): No such file or directory in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 32
+[03-Dec-2021 14:39:05 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 14:39:05 Asia/Ho_Chi_Minh] PHP Warning:  unlink(lastime): No such file or directory in /home/qdgzcdte/demo.vhgamer.xyz/api/@momo.php on line 32
+[03-Dec-2021 16:51:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: buoc in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 9
+[03-Dec-2021 16:51:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: balance in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 91
+[03-Dec-2021 16:51:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: lasttime in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 93
+[03-Dec-2021 16:51:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 16:51:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 16:51:54 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 16:53:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: buoc in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 9
+[03-Dec-2021 16:53:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: balance in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 91
+[03-Dec-2021 16:53:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: lasttime in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 93
+[03-Dec-2021 16:56:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: buoc in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 9
+[03-Dec-2021 16:56:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: balance in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 91
+[03-Dec-2021 16:56:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: lasttime in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 93
+[03-Dec-2021 16:58:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 16:58:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 16:58:01 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 16:58:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 16:58:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 16:58:14 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 16:58:14 Asia/Ho_Chi_Minh] PHP Warning:  unlink(lastime): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 32
+[03-Dec-2021 16:58:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 16:58:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 16:58:28 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 16:58:28 Asia/Ho_Chi_Minh] PHP Warning:  unlink(lastime): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 32
+[03-Dec-2021 16:58:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 16:58:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 16:58:38 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 16:58:38 Asia/Ho_Chi_Minh] PHP Warning:  unlink(lastime): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 32
+[03-Dec-2021 17:01:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sdt in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 18
+[03-Dec-2021 17:01:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: pass in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 19
+[03-Dec-2021 17:01:14 Asia/Ho_Chi_Minh] PHP Warning:  unlink(key): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 31
+[03-Dec-2021 17:01:14 Asia/Ho_Chi_Minh] PHP Warning:  unlink(lastime): No such file or directory in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 32
+[03-Dec-2021 17:01:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: msg in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 66
+[03-Dec-2021 17:01:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: buoc in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 9
+[03-Dec-2021 17:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: lasttime in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 93
+[03-Dec-2021 17:01:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/qdgzcdte/card.vhgamer.xyz/api/@momo.php on line 154
